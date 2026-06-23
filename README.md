@@ -31,6 +31,14 @@ A full-stack real-time chat application built using MERN Stack, Socket.io and Go
 - JWT
 - Google OAuth 2.0
 
+## 🧰 Tools
+
+- VS Code
+- Git & GitHub
+- Postman
+- MongoDB Compass
+- npm
+
 ## 📸 Project
 
 Real-time communication app with secure authentication and instant messaging.
