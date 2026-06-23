@@ -49,3 +49,8 @@ Clone:
 
 ```bash
 git clone https://github.com/imansidhu/mern-realtime-chat-app.git
+
+
+## 👩‍💻 Author
+
+Iman Sidhu
